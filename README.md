@@ -2,7 +2,7 @@
 
 This repository contains lecture notes for the subject **"Digital Signal Processing,"**, which I am teaching in the Spring 2021 session.
 
-1. [Chapter 2](https://github.com/ImranNust/Spring2021_DSP_BS_EE/blob/main/Chapter2_DiscreteTimeSignalsInTheTimeDomain.pdf)
+1. [Chapter 2: Discrete Time Signals in the Time Domain](https://github.com/ImranNust/Spring2021_DSP_BS_EE/blob/main/Chapter2_DiscreteTimeSignalsInTheTimeDomain.pdf)
 
 
 
