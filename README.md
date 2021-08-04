@@ -8,5 +8,8 @@ This repository contains lecture notes for the subject **"Digital Signal Process
 1. [Chapter 3: Discrete Time Signals in the Frequency Domain](https://github.com/ImranNust/Spring2021_DSP_BS_EE/blob/main/Chapter3_DiscreteTimeSignalsInTheFrequenceyDomain.pdf)
  1. 1. [Codes for the examples given in the chapter 3 of the book "Digital Signal Processing" by Sanjit K. Mitra (4th Ed.)](https://github.com/ImranNust/Spring2021_DSP_BS_EE/tree/main/Chapter3_MATLABCodes)
 
+1. [Chapter 4: Discrete Time Systems](https://github.com/ImranNust/Spring2021_DSP_BS_EE/blob/main/Chapter4_DiscreteTimeSystems.pdf)
+ 1. 1. [Codes for the examples given in the chapter 4 of the book "Digital Signal Processing" by Sanjit K. Mitra (4th Ed.)](https://github.com/ImranNust/Spring2021_DSP_BS_EE/tree/main/Chapter4_MATLABCodes)
+
 
 **Please note that you cannot view the files in the GitHub; you have to download it in order to view notes.**
